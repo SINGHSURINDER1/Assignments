@@ -1,0 +1,8 @@
+PS C:\Users\abhir\Desktop\surinder.c> cd "c:\Users\abhir\Desktop\surinder.c\" ; if ($?) { gcc ProgramToDuplicateElementsInAnArrayy.c -o ProgramToDuplicateElementsInAnArrayy } ; if ($?) { .\ProgramToDuplicateElementsInAnArrayy }
+Enter the size of the array: 3
+Enter the elements of the array:
+1
+2
+2
+Duplicate elements in the array are: 2 
+PS C:\Users\abhir\Desktop\surinder.c>
