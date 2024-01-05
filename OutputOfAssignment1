@@ -1,0 +1,19 @@
+PS C:\Users\abhir\Desktop\surinder.c> cd "c:\Users\abhir\Desktop\surinder.c\" ; if ($?) { gcc CalculatorUsingElseIfAndDoWhilee.c -o CalculatorUsingElseIfAndDoWhilee } ; if ($?) { .\CalculatorUsingElseIfAndDoWhilee }
+Choose an operation (+, -, *, /) or enter  'q' to quit: +
+Enter any  two numbers: 2
+4
+Result is : 6.00
+Choose an operation (+, -, *, /) or enter  'q' to quit: -
+Enter any  two numbers: 10-9
+Result is : 19.00
+Choose an operation (+, -, *, /) or enter  'q' to quit: *
+Enter any  two numbers: 23
+12
+Result is : 276.00
+Choose an operation (+, -, *, /) or enter  'q' to quit: /
+Enter any  two numbers: 100
+20
+Result is : 5.00
+Choose an operation (+, -, *, /) or enter  'q' to quit: q
+ the program of Calculator is finished.
+PS C:\Users\abhir\Desktop\surinder.c>
